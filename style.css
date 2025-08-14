@@ -1,0 +1,373 @@
+/* * {
+    margin : 0;
+    padding : 0;
+} */
+/* body{
+    margin:0;
+    padding:0;
+} */
+.left-right-card {
+  margin-left: 130px;
+}
+#left-card {
+  width: 290px;
+  height: 800px;
+  border: 1px solid black;
+}
+
+.react {
+
+  height: 98px;
+  margin-left: 30px;
+  margin-right: 14px;
+  border-radius: 10px;
+}
+
+#react-btn {
+  height: 86px;
+  margin-top: 15px;
+  margin-left: 5px;
+  width: 180px;
+  padding-top: 5px;
+}
+
+.highlighter{
+  background-color: #f4f5f9;
+}
+
+.dev-react {
+  display: flex;
+  margin-top: -80px;
+  margin-left: 6px;
+  gap: 5px;
+}
+#dev {
+  background-color: rgb(209, 224, 224);
+}
+
+#react1 {
+  background-color: rgb(209, 224, 224);
+}
+#date {
+  margin-top: -5px;
+  margin-left: 5px;
+}
+
+#react-btn h4 {
+  margin-top: -25px;
+  margin-left: -32px;
+}
+
+.japan {
+  margin-left: 30px;
+
+  width: 180px;
+  margin-top: -13px;
+}
+
+.travel-personal {
+  display: flex;
+  gap: 5px;
+  margin-top: -30px;
+}
+
+#travel {
+  background-color: rgb(209, 224, 224);
+  width: 50px;
+  display: flex;
+  justify-content: center;
+}
+#personal {
+  background-color: rgb(209, 224, 224);
+  width: 65px;
+  display: flex;
+  justify-content: center;
+}
+#date1 {
+  margin-top: -5px;
+  margin-left: 5px;
+}
+.line {
+  background-color: rgba(154, 190, 213, 0.25);
+  height: 1px;
+  margin-top: -5px;
+}
+.receipe {
+  margin-left: 30px;
+  width: 180px;
+  margin-top: -8px;
+}
+.cook-recipe {
+  display: flex;
+  gap: 5px;
+  margin-top: -30px;
+}
+#cook {
+  background-color: rgb(209, 224, 224);
+  width: 65px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+#receipe1 {
+  background-color: rgb(209, 224, 224);
+  width: 65px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+#date2 {
+  margin-top: -5px;
+  margin-left: 5px;
+}
+
+.line1 {
+  background-color: rgba(154, 190, 213, 0.25);
+  height: 1px;
+  margin-top: -5px;
+}
+
+.workout {
+  margin-left: 30px;
+  width: 180px;
+  margin-top: -8px;
+}
+.dev1-react1 {
+  display: flex;
+  gap: 5px;
+  margin-top: -30px;
+}
+
+#dev1 {
+  background-color: rgb(209, 224, 224);
+  width: 40px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+#react2 {
+  background-color: rgb(209, 224, 224);
+  width: 45px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+#date3 {
+  margin-top: -5px;
+  margin-left: 5px;
+}
+
+.line2 {
+  background-color: rgba(154, 190, 213, 0.25);
+  height: 1px;
+  margin-top: 10px;
+}
+
+.cook-health-recipes {
+  display: flex;
+  gap: 5px;
+  margin-top: -30px;
+}
+#cook5 {
+  background-color: rgb(209, 224, 224);
+  width: 65px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+#health {
+  background-color: rgb(209, 224, 224);
+  width: 65px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+#recipe5 {
+  background-color: rgb(209, 224, 224);
+  width: 65px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+}
+.line3 {
+  background-color: rgba(154, 190, 213, 0.25);
+  height: 1px;
+  margin-top: 10px;
+}
+
+.meal {
+  margin-left: 30px;
+  width: 180px;
+  margin-top: -8px;
+}
+
+.personal-dev {
+  display: flex;
+  gap: 5px;
+  margin-top: -30px;
+}
+
+#personal5 {
+  background-color: rgb(209, 224, 224);
+  width: 65px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+#dev5 {
+  background-color: rgb(209, 224, 224);
+  width: 40px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+#date6 {
+  margin-top: -5px;
+  margin-left: 5px;
+}
+
+#line5 {
+  background-color: rgba(154, 190, 213, 0.25);
+  height: 1px;
+  margin-top: 10px;
+}
+.read {
+  margin-left: 30px;
+  width: 180px;
+
+  margin-top: -8px;
+}
+
+.fitness-health-personal {
+  display: flex;
+  gap: 5px;
+  margin-top: -30px;
+}
+#fit {
+  background-color: rgb(209, 224, 224);
+  width: 65px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+#health5 {
+  background-color: rgb(209, 224, 224);
+  width: 65px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+}
+#pesonal5 {
+  background-color: rgb(209, 224, 224);
+  width: 65px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+}
+#date7 {
+  margin-top: -5px;
+  margin-left: 5px;
+}
+
+.fitness {
+  margin-left: 30px;
+  width: 180px;
+  margin-top: -8px;
+}
+.react-content {
+  margin-left: 7px;
+  margin-top: 94px;
+}
+#react-desc-heading {
+  margin-left: 10px;
+}
+
+.tag-container {
+  display: flex;
+  gap: 10px;
+  margin-top: -25px;
+}
+
+#svg {
+  margin-top: 21px;
+  margin-left: 10px;
+}
+
+#svg1 {
+  margin-top: 21px;
+  margin-left: 10px;
+}
+#dev-react {
+  margin-left: 40px;
+}
+.border1 {
+  background-color: rgba(154, 190, 213, 0.25);
+  height: 1px;
+  margin-top: 10px;
+}
+#react-content-btn{
+  margin-top: -75px;
+}
+
+.japan-content {
+  margin-left:-88px;;
+}
+.receipe-content {
+  margin-left: 8px;
+}
+.workout-content {
+  margin-left: 8px;
+}
+.meal-content {
+  margin-left: 10px;
+}
+.read-content {
+  margin-left: 12px;
+}
+.fitness-content {
+  margin-left: 8px;
+}
+
+.right-card {
+  width: 540px;
+  height: 800px;
+  border: 1px solid black;
+  margin-left: 292px;
+  margin-top: -802px;
+  border-left: none;
+}
+
+#japan-desc-heading{
+  margin-left: 10px;
+}
+
+#japan-content-btn{
+  margin-left:100px;
+}
+
+#weekly-desc-heading{
+  margin:10px;
+}
+#meal-desc-heading{
+  margin:10px;
+}
+#reading-heading{
+  margin:10px;
+}
+#fit-heading{
+  margin:10px;
+}
+
+.hidden {
+  display: none;
+}
+
