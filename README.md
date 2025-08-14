@@ -1,1 +1,1 @@
-# js_project
+This project is simple js project for a beginner.
